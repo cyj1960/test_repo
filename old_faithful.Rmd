@@ -22,7 +22,7 @@ head(faithful)
 summary(faithful)
 ```
 
-
+## test
 This is a histogram of the time between eruptions. We see the are two 
 groups of waiting times to the next eruption: One group with mean around 
 55 minutes and a second group with a mean around 80 minutes. 
